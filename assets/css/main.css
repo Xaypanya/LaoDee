@@ -578,6 +578,9 @@ main .contact .container form .right-align {
     font-size: 1.3rem;
 }
 
+.img-container img{
+    width: 100%;
+}
 
 
 @media (max-width: 767px) {
@@ -646,6 +649,18 @@ main .contact .container form .right-align {
     /* border: 2px solid red; */
     max-width: 60%; 
     margin: 0 auto;
+}
+
+.promotion-container h3 {
+   text-align: center;
+}
+
+.map-title {
+    margin-top: 20px;
+}
+
+iframe {
+    border:1px solid #3d2500; border-radius: 10px;
 }
 
 .promotion-image-container {
